@@ -2,7 +2,7 @@
 - 👀 I am a Front end Devloper and looking for oppurtunities
 - 🌱 I’m B.C.A Grad and Pursuing my M.C.A ...
 - 💞️ MY experience are my projects and repositories.
-- 📫  How to reach me **nilesh01gmail.com**
+- 📫  How to reach me **nilesh01june@gmail.com**
 - Ask me about ReactJs, VanillaJs, HTML5, CSS3, Jest, Redux Toolkit, React Router, Context API,  Web Hosting, Git & Github
 - <h3 align="left">Languages and Tools:</h3>
 <hr>
