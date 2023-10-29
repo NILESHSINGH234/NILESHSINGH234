@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NILESH KUMAR
 - 👀 I am a Front end Devloper Poficient In React js, Redux Tool Kit ,HTML, CSS ,JAVASCRIPT LOOKIN For Start MY Carrer
--  Done Certification From **i Neuron** in Full Stack Devlopment In JavaScript under the Guidance Hitesh Sir **Duration** of This Course **6 Month**  Certificate Link <a href=file:///C:/Users/ns941/Downloads/d8d76438-fc10-4e47-9035-1c8c76e3cb37%20(2).pdf"" target="_blank" rel="noreferrer"
+-  Done Certification From **i Neuron** in Full Stack Devlopment In JavaScript under the Guidance Hitesh Sir **Duration** of This Course **6 Month**  [Certificate Link](https://github.com/NILESHSINGH234/Full-Stack-Devlopment-Certificate)
 - 🌱 I’m B.C.A Grad and Pursuing my M.C.A ...
 - 💞️ MY experience are my projects and repositories.
 - 📫  How to reach me **nilesh01june@gmail.com**
