@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NILESHSINGH234
-- 👀 I am a Front end Devloper and looking for oppurtunities
+- 👋 Hi, I’m NILESH KUMAR
+- 👀 I am a Front end Devloper Poficient In React js, Redux Tool Kit ,HTML, CSS ,JAVASCRIPT LOOKIN For Start MY Carrer
 - 🌱 I’m B.C.A Grad and Pursuing my M.C.A ...
 - 💞️ MY experience are my projects and repositories.
 - 📫  How to reach me **nilesh01june@gmail.com**
