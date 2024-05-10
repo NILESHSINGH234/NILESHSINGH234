@@ -3,7 +3,7 @@
 -  Done Certification From **i Neuron** in Full Stack Devlopment In JavaScript under the Guidance Hitesh Sir **Duration** of This Course **6 Month**  [Certificate Link](https://github.com/NILESHSINGH234/Full-Stack-Devlopment-Certificate)
 - 🌱 I’m B.C.A Grad and Pursuing my M.C.A ...
 - 💞️ MY experience are my projects and repositories.
-- 📫  How to reach me **junenileshsinghgmail.com**
+- 📫  How to reach me **junenileshsingh@gmail.com**
 - Ask me about ReactJs, VanillaJs, HTML5, CSS3, Jest, Redux Toolkit, React Router, Context API,  Web Hosting, Git & Github
 - <h3 align="left">Languages and Tools:</h3>
 <hr>
